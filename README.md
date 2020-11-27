@@ -1,4 +1,4 @@
-# YOLOv5 NCNN Implementation
+# YOLOv4 NCNN Implementation
 
 This repo provides C++ implementation of [YOLOv4 model] using
 Tencent's NCNN framework.
